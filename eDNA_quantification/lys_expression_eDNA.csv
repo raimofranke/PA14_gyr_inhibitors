@@ -1,0 +1,17 @@
+﻿sample;lys_expression [cpm];;sample;eDNA [µg/mL]
+untreated.1;9,453123886;;ciprofloxacin.1;259,191
+untreated.2;5,827345318;;ciprofloxacin.2;269,949
+untreated.3;9,380141264;;ciprofloxacin.3;265,494
+ciprofloxacin.1;1498,29562;;ciprofloxacin.4;250,483
+ciprofloxacin.2;1455,883101;;novobiocin.1;18,064
+ciprofloxacin.3;1695,272699;;novobiocin.2;28,115
+novobiocin.1;89,71604289;;novobiocin.3;21,248
+novobiocin.2;113,9234426;;novobiocin.4;19,949
+novobiocin.3;138,1622345;;CN-DM-861.1;43,753
+CN-DM-861.1;201,3375628;;CN-DM-861.2;51,932
+CN-DM-861.2;222,311391;;CN-DM-861.3;49,118
+CN-DM-861.3;214,3654569;;CN-DM-861.4;61,102
+;;;untreated.1;14,460
+;;;untreated.2;15,158
+;;;untreated.3;15,040
+;;;untreated.4;30,777
